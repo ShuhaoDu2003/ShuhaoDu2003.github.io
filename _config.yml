@@ -1,11 +1,11 @@
 # Setup
 title: Shuhao Du
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+description: A 21-year old boy
+url: https://shuhaodu2003.github.io/
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: 
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: 
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://xxx
+    - https://xxx
 google_site_verification: xxxxx
 lang: en
 
