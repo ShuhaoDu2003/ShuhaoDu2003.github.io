@@ -28,15 +28,7 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: 
-  card: summary
-logo: logo.png
-social:
-  name: 
-  links:
-    - https://xxx
-    - https://xxx
+
 google_site_verification: xxxxx
 lang: en
 
@@ -54,5 +46,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi-Vong
+  name: Songzi Vong
   url: https://github.com/vszhub/
+  email: vszhub@gmail.com
