@@ -3,11 +3,11 @@ title: Shuhao Du
 description: A 21-year old boy
 url: https://shuhaodu2003.github.io/
 avatar: /avatar.jpg
-paginate: 5
-permalink: pretty
+paginate: 3
+permalink: /:title.html
 cover_image: /bg.jpg
 
-# Gems
+# Use Jekyll Functions
 plugins:
   - jekyll-gist
   - jekyll-paginate
@@ -15,7 +15,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Optimize Jekyll
+# Exclude Unrelated Files
 exclude:
   - .editorconfig
   - .git
@@ -29,7 +29,7 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 
-google_site_verification: xxxxx
+google-site-verification: google81f7e61b243d326b.html
 lang: en
 
 sass:
