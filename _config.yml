@@ -29,7 +29,7 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 
-google-site-verification: google81f7e61b243d326b.html
+google-site-verification: haven't verified
 lang: en
 
 sass:
@@ -44,7 +44,7 @@ sass:
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
 
-# Specify the author for blog posts
+# Author
 author:
   name: Shuhao Du
   url: https://shuhaodu2003.github.io/
