@@ -1,6 +1,6 @@
 # Setup
 title: Shuhao Du
-description: A 21-year old boy
+description: An undergraduate student in Tsinghua University. Interested in theoretical and computational condensed matter physics.
 url: https://shuhaodu2003.github.io/
 avatar: /avatar.jpg
 paginate: 3
@@ -26,7 +26,6 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-
 google-site-verification: haven't verified
 lang: en
 
